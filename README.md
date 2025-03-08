@@ -1,16 +1,35 @@
-# flutter_ui_showcase
+Flutter UI Showcase 🚀
+A clean and professional Flutter UI demonstrating fundamental Flutter widgets and layout best practices.
 
-A new Flutter project.
+Features:
+✅ Elegant UI – A well-structured interface with smooth alignment and padding.
+✅ Custom AppBar – Displays a sleek title.
+✅ Personalized Welcome Message – Dynamically greets the user.
+✅ Interactive Button – Executes an action on press.
+✅ Network Image Display – Fetches and displays an image from the internet.
 
-## Getting Started
+Technologies Used:
+Flutter (Dart) – For building the UI
+Material Design – For a modern and responsive look
+Setup & Run:
+1️⃣ Clone the repository:
 
-This project is a starting point for a Flutter application.
+bash
+Copy
+Edit
+git clone https://github.com/krymoevanag/flutter_ui_showcase.git
+cd flutter_ui_showcase
+2️⃣ Install dependencies:
 
-A few resources to get you started if this is your first Flutter project:
+bash
+Copy
+Edit
+flutter pub get
+3️⃣ Run the app:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+bash
+Copy
+Edit
+flutter run
+License
+This project is open-source and available under the MIT License.
